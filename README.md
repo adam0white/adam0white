@@ -38,20 +38,6 @@ Real-time collaborative canvas application with Yjs CRDT synchronization, role-b
 
 ---
 
-### [TriggersAPI](https://github.com/adam0white/TriggersAPI) • [Live Demo](https://triggers.adamwhite.work)
-Serverless event management system for high-performance event capture, queueing, and processing with sub-100ms latency. Integrates with 6,000+ apps via Zapier REST Hooks.
-
-**Tech:** Cloudflare Workers, Cloudflare Queues, D1, TypeScript
-
----
-
-### [AI Study Companion](https://github.com/adam0white/AI-Study-Companion) • [Live Demo](https://study.adamwhite.work)
-AI-powered study companion with dual-memory architecture that consolidates learning sessions into personalized profiles for intelligent tutoring.
-
-**Tech:** React, Cloudflare Workers, Durable Objects, D1, Clerk Auth, Workers AI
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** TypeScript, Python, Java
@@ -66,7 +52,7 @@ AI-powered study companion with dual-memory architecture that consolidates learn
 
 **Testing:** Playwright, Selenium, Test Automation Frameworks
 
-**DevOps:** Cloudflare Pages, GitHub Actions, Docker, Wrangler
+**DevOps:** Cloudflare Workers Builds, GitHub Actions, Docker, Wrangler
 
 ---
 
@@ -77,8 +63,6 @@ AI-powered study companion with dual-memory architecture that consolidates learn
 - **Real-time collaborative applications** using Durable Objects and WebSockets
 - **Production-grade demos** that showcase emerging AI capabilities
 
-All projects deployed at **adamwhite.work** subdomains.
-
 ---
 
 ## 📊 Highlights
@@ -87,15 +71,13 @@ All projects deployed at **adamwhite.work** subdomains.
 - 📦 **15+ Shipped Projects** - From concept to production in rapid iterations
 - 🌍 **Edge Computing Focus** - Leveraging Cloudflare Workers for global scale
 - 🤖 **AI Integration Expert** - RAG, agents, LLM orchestration, Workers AI
-- 🧪 **Testing Background** - 6+ years in quality assurance and test automation
+- 🧪 **Testing Background** - 4+ years in quality assurance and test automation
 
 ---
 
 ## 🔗 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/adam0white)
-- 🌐 [Portfolio](https://adamwhite.work)
-- 📧 Available for consulting and collaboration
 
 ---
 
